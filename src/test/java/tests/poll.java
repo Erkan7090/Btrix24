@@ -8,7 +8,13 @@ public class poll {
 
 
         System.out.println("Hello World");
+<<<<<<< HEAD
         System.out.println("Erkan");
+=======
+        
+        
+        System.out.println("Helloooooo World");
+>>>>>>> refs/remotes/origin/master
 
     }
 
