@@ -11,5 +11,9 @@ public class task {
     String d="Sahin";
     System.out.println("d = " + d);
     
+   int age=12;
+    int date=2009;
+    
+    
   }
 }
